@@ -5,6 +5,7 @@ This repository provides MATLAB codes for patch learning and patch plots as show
 
 
 [1] "[Joint Patch and Multi-label Learning for Facial Action Detection](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Joint_Patch_and_2015_CVPR_paper.pdf)", CVPR 2016.
+
 [2] "[Joint Patch and Multi-label Learning for Facial Action Unit and Holistic Expression Recognition](http://ieeexplore.ieee.org/document/7471506/)", TIP 2016.
 
 
